@@ -2,7 +2,7 @@
 
 Pig is a simple two player dice game.
 
-Play here: [formidablae.github.io/pig_game](https://formidablae.github.io/pig_game/) or [formaidablae-pig-game.netlify.app](https://formaidablae-pig-game.netlify.app/)
+Play here: [formidablae.github.io/pig_game](https://formidablae.github.io/pig_game/) or [formidablae-pig-game.netlify.app](https://formidablae-pig-game.netlify.app/)
 
 Each turn, a player repeatedly rolls a dice. The player may decide to hold the score and change turn or addup with another roll.
 
